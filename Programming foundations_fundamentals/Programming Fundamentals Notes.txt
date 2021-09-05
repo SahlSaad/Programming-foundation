@@ -1,0 +1,49 @@
+-Programming : the process of converting ideas into intructions that computer can understand & execute.
+
+-machine language : like 01010111000
+-high end language : human understand to interact with computer.
+-we use Interpeter to read the human language (source code) into machine language (machine code) , there's 3 ways of doing this :
+1- compile it, 2- interpret it, 3-combination of both.
+1- c,c++     , 2-PHP,JS       , 3-java,c#,python.
+-IDE = integrated development environments like VScode,Xcode.
+
+-bug : something unexpected happens.
+-crash : program stops early or freezes.
+Error categories : 
+1-Syntax : language rules broken,
+2-Runtime : unable to execute,
+3-Semantic : unexpected output.
+Website for errors lookup : stackoverflow.
+
+-Variable : container of values. words = string example:name = "Adam" 
+-Rules for variable names in python :
+1-can contain letter,numbers & underscores
+2-can't contain spaces or starting with numbers.
+3-can't be keywords like: break,and.
+4-are case sensetive.
+-Numbers = int or float example: age = 36, type() = to know type.
+-Float = any number with decimal value like: 2.456
+-Comments : used to describe your code.
+
+-Conditional expresion = bolean : yes or no, working with 2 operands.
+ex: 5 == 7 returns: False,  5 != 3 returns: True.
+-Relational operators : >=<
+
+-if-else Statements: 
+if condition:
+    do work
+else:
+    do something else
+
+-Function: Block of code packaged together with a name.
+
+-C writen languages like: C++, java
+
+-Java: Cross-platform, can be used in:
+ Desktop apps, Android apps.
+
+-C++: Garbage collection, can be used in: 
+ Games & game engines.
+
+-library: a grouping of variables&functions that someone else has written.
+
